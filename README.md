@@ -4,7 +4,7 @@
 
 ## 🧩 LeetCode
 I solve problems regularly to improve my problem solving.
-- Profile: https://leetcode.com/u/YOUR_LEETCODE_USERNAME/
+- Profile: https://leetcode.com/u/anshul_sarawogi/
 - Problems solved so far: 0 (updating regularly)
 
 ## 🌱 Currently learning
